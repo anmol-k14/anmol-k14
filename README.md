@@ -27,7 +27,6 @@ const anmol = {
 
 <div align="center">
 
-### 💻 **Programming Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,cpp,c,react,html,css,tailwind,bootstrap,express,mongodb,mysql,redis,rabbitmq,git,github,vscode,postman,figma,linux,aws,docker&perline=10" "/>
 </p>
