@@ -41,7 +41,7 @@ const anmol = {
 
 | Platform | Rating/Rank | Problems Solved |
 |---|---|---|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **1650+** ⭐ | 400+ |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **1700+** ⭐ | 400+ |
 | ![Contest](https://img.shields.io/badge/Contest-FF6B6B?style=flat&logo=trophy&logoColor=white) | **Global Rank 1713** 🏅 | Biweekly 161 |
 | ![JEE](https://img.shields.io/badge/JEE_Mains-4CAF50?style=flat&logo=graduation-cap&logoColor=white) | **Top 5%** 🎯 | 1M+ candidates |
 
